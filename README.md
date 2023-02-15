@@ -1,2 +1,2 @@
-# New-code
+# Microverse_Code_Challenge
 new repository
